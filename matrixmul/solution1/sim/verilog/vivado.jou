@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Nov 17 21:04:26 2020
+# Process ID: 13540
+# Current directory: G:/DLA/Lab1/matrixmul/solution1/sim/verilog
+# Command line: vivado.exe -source open_wave.tcl
+# Log file: G:/DLA/Lab1/matrixmul/solution1/sim/verilog/vivado.log
+# Journal file: G:/DLA/Lab1/matrixmul/solution1/sim/verilog\vivado.jou
+#-----------------------------------------------------------
+start_gui
+source open_wave.tcl
+open_wave_config G:/DLA/Lab1/matrixmul/solution1/sim/verilog/matrixmul.wcfg
+close_sim
